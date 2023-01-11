@@ -1,7 +1,10 @@
-### Hi there 👋
+<div align="center">
+<img src="https://raw.githubusercontent.com/SHEENSHEELLA/SHEENSHEELLA/main/headergitdark.gif#gh-dark-mode-only" align="center" height="280" />
+<img src="https://raw.githubusercontent.com/SHEENSHEELLA/SHEENSHEELLA/main/headergitlight.gif#gh-light-mode-only" align="center" height="280" />
+</div> 
 
 ### :man_technologist: A little about me:
-My name is Dima and I'm a beginner Frontend developer:<br/>
+My name is Dima and I'm a beginner Frontend Developer:<br/>
 - I am a civil engineer by education. Before I began to study programming, I had been working as a lead engineer in a state company responsible for designing bridges, roads, administrative buildings, and industrial buildings 🎢<br/>
 - I like to learn something new and useful :hatching_chick:<br/>
 - Actively looking for internships :eyes:<br/>
